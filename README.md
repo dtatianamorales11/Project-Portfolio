@@ -14,7 +14,7 @@
 </head>
 <body>
     <header>
-        <h1>Bienvenido a Mi Portafolio</h1>
+        <h1></h1>
         <nav>
             <ul>
                 <li><a href="#projects">Proyectos</a></li>
