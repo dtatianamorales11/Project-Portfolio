@@ -3,8 +3,8 @@
 # Data Analytics
 | Project Name | Skills & Tools | Description | 
 |---|---|---|
-|[Maven Fuzzy Factory](https:)|📚Spreadsheets|Analyze and optimize marketing channels, measure,and test website conversion performance, and use data to understand the impact of new product launches.|
-|[Maven Fuzzy Factory](https:)|📚SQL|Analyze and optimize marketing channels, measure,and test website conversion performance, and use data to understand the impact of new product launches.|
-|[Maven Fuzzy Factory](https:)|📚Tableau|Analyze and optimize marketing channels, measure,and test website conversion performance, and use data to understand the impact of new product launches.|
-|[Maven Fuzzy Factory](https:)|📚Python|Analyze and optimize marketing channels, measure,and test website conversion performance, and use data to understand the impact of new product launches.|
-|[Maven Fuzzy Factory](https:)|📚R|Analyze and optimize marketing channels, measure,and test website conversion performance, and use data to understand the impact of new product launches.|
+|[Maven Fuzzy Factory](https:)|📚Spreadsheets|xx.|
+|[Maven Fuzzy Factory](https:)|📚SQL|xx.|
+|[Maven Fuzzy Factory](https:)|📚Tableau|xx.|
+|[Maven Fuzzy Factory](https:)|📚Python|xx.|
+|[Maven Fuzzy Factory](https:)|📚R|xx.|
